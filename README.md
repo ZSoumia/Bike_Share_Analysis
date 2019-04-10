@@ -20,6 +20,6 @@ import matplotlib.pyplot as plt
 import calendar as cal
 ~~~~
 
-## License : 
+## 3. License : 
 his project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md)  file for details
 
