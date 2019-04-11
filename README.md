@@ -21,5 +21,5 @@ import calendar as cal
 ~~~~
 
 ## 3. License : 
-his project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md)  file for details
+his project is licensed under the MIT License - see the [LICENSE ](https://github.com/ZSoumia/Bike_Share_Analysis/blob/master/LICENSE) file for details
 
